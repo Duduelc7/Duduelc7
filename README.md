@@ -4,7 +4,6 @@
 - 📚 Cientista da Computação
 - 🌱 Estudando Engenharia de Dados e Data Science
 - 📫 Contate-me no email : eduardocordeiro1906@gmail.com
-- 😄 Pronouns: Ele
 
 <div align="center">
   <a href="https://github.com/Duduelc7">
