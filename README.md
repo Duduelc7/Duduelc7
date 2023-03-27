@@ -1,7 +1,7 @@
 ## Olá, seja Bem vindo ao meu perfil
 
 
-- 📚 Cientista da Computação
+- 📚 Cientista da Computação, trabalhando como Data Engineer
 - 🌱 Estudando Engenharia de Dados e Data Science
 - 📫 Contate-me no email : eduardocordeiro1906@gmail.com
 
